@@ -1,0 +1,7 @@
+C:\Users\Dell\Documents\Exos\POO\PO8'\PO8'\PO8'\bin\Debug\PO8'.exe.config
+C:\Users\Dell\Documents\Exos\POO\PO8'\PO8'\PO8'\bin\Debug\PO8'.exe
+C:\Users\Dell\Documents\Exos\POO\PO8'\PO8'\PO8'\bin\Debug\PO8'.pdb
+C:\Users\Dell\Documents\Exos\POO\PO8'\PO8'\PO8'\obj\Debug\PO8'.csprojAssemblyReference.cache
+C:\Users\Dell\Documents\Exos\POO\PO8'\PO8'\PO8'\obj\Debug\PO8'.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\Exos\POO\PO8'\PO8'\PO8'\obj\Debug\PO8'.exe
+C:\Users\Dell\Documents\Exos\POO\PO8'\PO8'\PO8'\obj\Debug\PO8'.pdb
